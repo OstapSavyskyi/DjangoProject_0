@@ -1,1 +1,1 @@
-from .product import Product
+from products.models.product import Product
