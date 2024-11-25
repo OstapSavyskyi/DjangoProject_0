@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Recommendation
+from recommendations.models import Recommendation
 # Register your models here.
 
 
